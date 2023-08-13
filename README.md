@@ -1,5 +1,5 @@
 # 👋 Hello, I’m Kantavit
-I am interested in programming stuff, technique and some other things not related to programming stuff.
+I'm into programming stuff, technique and some other things not related to programming.
 
 <details>
 <summary><b>Languages and Tools</b></summary>
