@@ -14,7 +14,11 @@ I'm a software developer, looking to sharpen me a skills or technique to survive
 ### Socials and others
 <p align="left"> 
   <a href="https://medium.com/@kantavit-chenpittaya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kantavit-chenpittaya" height="30" width="40" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" /> 
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kantavit-chenpittaya" height="32" width="32" />
+    </picture> 
   </a>
   <a href="https://www.linkedin.com/in/kantavit-chenpittaya/" target="_blank" rel="noreferrer"> 
     <picture> 
